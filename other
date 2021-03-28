@@ -1,0 +1,12 @@
+   <div
+                class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+                <div class="col p-4 d-flex flex-column position-static">
+                    <strong class="d-inline-block mb-2 text-primary">Design</strong>
+                    <h3 class="mb-0">Maruti-Suzuki
+                </div>
+                <div class="mb-1 text-muted">March-22</div>
+                <p class="mb-auto">The 26 startups have been shortlisted from over 400 applications received
+                    across the country.Comprising experts from Maruti Suzuki and NSRCEL
+                    evaluated the applic.</p>
+                <a href="#" class="stretched-link">Continue reading</a>
+                </div>

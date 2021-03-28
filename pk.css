@@ -1,0 +1,32 @@
+#a{
+color: rgb(250, 248, 248);
+font-family: 'New Tegomin', serif;
+}
+#b{
+    color: rgb(3, 248, 146);
+    font-family: 'Ubuntu', sans-serif;
+}
+#c{
+color: red;
+font-family: 'New Tegomin', serif;
+}
+#d{
+color: rgb(12, 0, 0);
+font-family: 'New Tegomin', serif;
+}
+#aa{
+    color: black;
+}
+#bb{
+    color:black;
+}
+#first{
+    height:220px ;
+    width: 200px;
+}
+#as{
+    height: 235px;
+}
+.row{
+    margin-left: 10px;
+}
